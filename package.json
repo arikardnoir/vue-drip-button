@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@arikardnoir/vue-drip-button",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "New way to use buttons 🎨",
   "main": "src/component.vue",
   "scripts": {
@@ -10,12 +10,10 @@
   },
   "files": [
     "dist/*",
-    "src/*"
+    "src/*",
+    "fonts/*"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arikardnoir/vue-drip-button.git"
-  },
+  "repository": "https://github.com/arikardnoir/vue-drip-button.git",
   "keywords": [
     "#vue",
     "#button",
