@@ -87,11 +87,6 @@ export default {
   background-color: none;
 }
 
-.button:hover {
-  transform: translate(0, -1px);
-    box-shadow: 0 18.5px 10px -10px rgba(0, 0, 0, 0.5);
-}
-
 .button.primary {
   background-color: #9696FF;
   color: #000;
