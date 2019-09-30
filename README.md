@@ -1,9 +1,8 @@
 # Vue Drip Button 
-![version](https://img.shields.io/npm/v/@arikardnoir/vue-drip-button) [![npm downloads](https://img.shields.io/npm/dt/vue-drip-button.svg)](https://www.npmjs.com/package/vue-drip-button) <a href="https://www.npmjs.com/package/vue-drip-button"> [![Software License](https://img.shields.io/npm/l/@arikardnoir/vue-drip-button)](LICENSE)
+![version](https://img.shields.io/npm/v/@arikardnoir/vue-drip-button) [![npm downloads](https://img.shields.io/npm/dt/@arikardnoir/vue-drip-button.svg)](https://www.npmjs.com/package/@arikardnoir/vue-drip-button) <a href="https://www.npmjs.com/package/@arikardnoir/vue-drip-button"> [![Software License](https://img.shields.io/npm/l/@arikardnoir/vue-drip-button)](LICENSE)
 > A Vue.js plugin to easily integrate button in your projects.
 
 Vue Drip Button is a simple button that give a lot of alternatives to work with, instead of using a predefined button.
-
 
 
 ## Instalation
