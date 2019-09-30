@@ -11,7 +11,8 @@
   "files": [
     "dist/*",
     "src/*",
-    "fonts/*"
+    "fonts/*",
+    "img/*"
   ],
   "repository": "https://github.com/arikardnoir/vue-drip-button.git",
   "keywords": [

@@ -55,3 +55,6 @@ Components Property that make him cool
 |isRequesting      |Boolean       |false             |This prop make sense if you will use the Spinner, i could help your button spinner work if the two are in TRUE mode.
 |isDisabled        |Boolean       |false             |This prop is for disable your button
 
+
+
+![picture](./img/danger.jpg)
