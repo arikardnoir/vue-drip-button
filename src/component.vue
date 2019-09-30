@@ -95,6 +95,7 @@ export default {
     background-color: #BABAFF;
 }
 .button.primary-outline {
+  background-color: Transparent;
   border: 1px solid #9696FF;
   color: #9696FF;
 }

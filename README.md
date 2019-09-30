@@ -55,5 +55,20 @@ Components Property that make him cool
 |isDisabled        |Boolean       |false             |This prop is for disable your button
 
 
+## Button Colour Styles
+Component classType for change the Style
 
-![picture](./img/danger.jpg)
+|classType                 |Type              |Image                                      |
+|--------------------------|------------------|-------------------------------------------|
+|primary                   |String            |   ![picture](./img/primary.png)           |
+|secondary                 |String            |   ![picture](./img/secondary.png)         |
+|warning                   |String            |   ![picture](./img/warning.png)           |
+|danger                    |String            |   ![picture](./img/danger.png)            |
+|success                   |String (default)  |   ![picture](./img/success.png)           |
+|info                      |String            |   ![picture](./img/info.png)              |
+|primary-outline           |String            |   ![picture](./img/primary-outline.png)   |
+|secondary-outline         |String            |   ![picture](./img/secondary-outline.png) |
+|warning-outline           |String            |   ![picture](./img/warning-outline.png)   |
+|danger-outline            |String            |   ![picture](./img/danger-outline.png)    |
+|success-outline           |String            |   ![picture](./img/success-outline.png)   |
+|info-outline              |String            |   ![picture](./img/info-outline.png)      |

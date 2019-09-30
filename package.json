@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@arikardnoir/vue-drip-button",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "New way to use buttons 🎨",
   "main": "src/component.vue",
   "scripts": {
