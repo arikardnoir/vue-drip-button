@@ -55,7 +55,7 @@ Components Property that make him cool
 |isDisabled        |Boolean       |false             |This prop is for disable your button
 
 
-## Button Colour Styles
+## Button Color Styles
 Component classType for change the Style
 
 |classType                 |Type              |Image                                      |
