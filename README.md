@@ -5,7 +5,7 @@
 Vue Drip Button is a simple button that give a lot of alternatives to work with, instead of using a predefined button.
 
 
-## Instalation
+## Installation
 Install the package from npm by running:
 ``` bash
 # install dependencies
